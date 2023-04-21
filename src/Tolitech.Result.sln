@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tolitech.Result", "Result\Tolitech.Result.csproj", "{68C6FA61-DA8E-4690-93C6-92E688D834F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tolitech.Result.Tests", "Result.Tests\Tolitech.Result.Tests.csproj", "{3D36A0E2-4FAD-401F-B725-67E8C43DEE36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68C6FA61-DA8E-4690-93C6-92E688D834F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68C6FA61-DA8E-4690-93C6-92E688D834F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68C6FA61-DA8E-4690-93C6-92E688D834F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68C6FA61-DA8E-4690-93C6-92E688D834F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D36A0E2-4FAD-401F-B725-67E8C43DEE36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D36A0E2-4FAD-401F-B725-67E8C43DEE36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D36A0E2-4FAD-401F-B725-67E8C43DEE36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D36A0E2-4FAD-401F-B725-67E8C43DEE36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4630BFE-5F34-4976-8CE1-8737A4EBDD4D}
+	EndGlobalSection
+EndGlobal
